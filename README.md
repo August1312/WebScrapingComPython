@@ -9,7 +9,7 @@
 - `pip install requests beautifulsoup4 pandas`
 
 
-##Como Usar
+## Como Usar
 
 1° **Clone esse repositorio**
 - `git clone https://github.com/August1312/WebScrapingComPython.git`
